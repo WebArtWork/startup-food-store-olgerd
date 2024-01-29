@@ -1,0 +1,9 @@
+{% for portfolio in portfolios %}
+<a href="/portfolio/{{{portfolio.id}}}" class="portfolio__item">
+	<h1>{{{portfolio.name}}}</h1>
+	<img src="{{{portfolio.thumb}}}" alt="{{{portfolio.name}}}">
+	<pre>
+		{{{portfolio.short}}}
+	</pre>
+</a>
+{% endfor %}

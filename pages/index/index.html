@@ -1,0 +1,16 @@
+{% for service in services %}
+	<h1>{{{service.name}}}</h1>
+	<img src="{{{service.thumb}}}" alt="{{{service.name}}}">
+{% endfor %}
+{% for product in products %}
+	<h1>{{{product.name}}}</h1>
+	<img src="{{{product.thumb}}}" alt="{{{product.name}}}">
+{% endfor %}
+{% for portfolio in portfolios %}
+	<h1>{{{portfolio.name}}}</h1>
+	<img src="{{{portfolio.thumb}}}" alt="{{{portfolio.name}}}">
+{% endfor %}
+{% for article in articles %}
+	<h1>{{{article.name}}}</h1>
+	<img src="{{{article.thumb}}}" alt="{{{article.name}}}">
+{% endfor %}

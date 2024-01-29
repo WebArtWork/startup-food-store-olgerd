@@ -1,0 +1,151 @@
+{
+  "title": "Welcome to waw Template",
+  "description": "description",
+  "keywords": "keywords",
+  "prefix": "/template",
+  "picture": "picture",
+  "author": "author",
+  "moderators": [],
+  "scss": "scss/index.scss",
+  "footer": {
+    "portfolios": [
+      {
+        "id": "/portfolio",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "portfolio"
+      },
+      {
+        "id": "/portfolio",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "portfolio"
+      },
+      {
+        "id": "/portfolio",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "portfolio"
+      },
+      {
+        "id": "/portfolio",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "portfolio"
+      }
+    ],
+    "products": [
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "product"
+      },
+      {
+        "id": "/product",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "product"
+      }
+    ],
+    "services": [
+      {
+        "id": "/service",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "service"
+      },
+      {
+        "id": "/service",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "service"
+      },
+      {
+        "id": "/service",
+        "price": 1200,
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "service"
+      }
+    ],
+    "articles": [
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "article"
+      },
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "article"
+      },
+      {
+        "id": "/article",
+        "short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+        "name": "article"
+      }
+    ]
+  },
+  
+	"categories_articles": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_services": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_portfolios": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_products": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	],
+	"categories_profiles": [
+		{
+			"name": "Category One",
+			"tags": [
+				{
+					"name": "Tag one"
+				}
+			]
+		}
+	]
+}

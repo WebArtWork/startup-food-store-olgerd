@@ -1,0 +1,9 @@
+{
+	"name": "portfolio",
+	"portfolio": {
+		"id": "/portfolio",
+		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+        "thumb": "https://body.webart.work/template/img/welcome.png",
+		"name": "Portfolio Name"
+	}
+}
